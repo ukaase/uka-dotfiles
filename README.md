@@ -1,4 +1,4 @@
-# sway-dots
+# uka-dots
 for the configs to work properly install these pkgs:
 - [waybar](https://github.com/Alexays/Waybar)
 - [bemenu](https://github.com/Cloudef/bemenu)
