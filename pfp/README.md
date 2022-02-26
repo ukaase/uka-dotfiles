@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/noiyr/uka-dotfiles/main/pfp/cute.jpg)
+![alt text](https://raw.githubusercontent.com/noiyr/uka-dotfiles/main/pfp/haku.jpg)
 ![alt text](https://github.com/noiyr/uka-dotfiles/blob/main/pfp/%E5%A4%8F.jpg?raw=true)
 ![alt text](https://github.com/noiyr/uka-dotfiles/blob/main/pfp/%E7%A7%8B.jpg?raw=true)
 ![alt text](https://github.com/noiyr/uka-dotfiles/blob/main/pfp/shizuku.jpg?raw=true)
