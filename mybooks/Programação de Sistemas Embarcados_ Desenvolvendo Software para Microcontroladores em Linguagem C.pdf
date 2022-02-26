@@ -1,0 +1,183 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.28 841.89]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 1758>>
+stream
+0.57 w
+0 G
+BT
+/F1 14 Tf
+16.099999999999998 TL
+0 g
+42.52 785.20 Td
+(SINOPSE DO LIVRO "Programação de Sistemas Embarcados: Desenvolvendo) Tj
+T* (Software para Microcontroladores em Linguagem C") Tj
+T* () Tj
+T* (Os sistemas embarcados são dispositivos que podem ser encontrados em) Tj
+T* (qualquer lugar, de aplicações residenciais a controladores de processos críticos) Tj
+T* (como aviação ou equipamentos médicos. Aprender a programar estes dispositivos) Tj
+T* (envolve conhecer o hardware, os periféricos e a interação entre eles. Este livro) Tj
+T* (traz os conhecimentos e ferramentas necessárias para que o leitor possa) Tj
+T* (entender estes dispositivos e desenvolver aplicações com segurança e rapidez.) Tj
+T* (Existe uma carência de livros na área de sistemas embarcados em português. A) Tj
+T* (maioria incorre em dois problemas: ou é extremamente superficial no tema de) Tj
+T* (programação de embarcados ou é focada em um tipo específico de processador,) Tj
+T* (limitando sua utilidade para um fabricante oi item específico. Com relação ao) Tj
+T* (tempo, o momento é bastante propício para este tipo de literatura.) Tj
+T* (Com a popularidade da plataforma Arduino várias pessoas têm começado seus) Tj
+T* (estudos nesta área. Outro grande motivador é o advento da internet das coisas,) Tj
+T* (plataformas embarcadas que possuem acesso a internet, várias empresas) Tj
+T* (multinacionais vem investindo nesta área \(Intel, Oracle, Advantech, Dell\) e as) Tj
+T* (universidades começam a perceber a escassez de mão de obra no mercado.) Tj
+T* () Tj
+T* (Visite para saber mais: https://ler-livros.com/ler-online-ebook-pdf-programacao-de-) Tj
+T* (sistemas-embarcados-desenvolvendo-software-para-microcontroladores-em-lingu) Tj
+T* (agem-c-baixar-resumo/) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+6 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/WinAnsiEncoding
+/Subtype/Type1>>
+endobj
+17 0 obj
+<</BaseFont/ZapfDingbats/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+18 0 obj
+<<
+/Producer (jsPDF 1.x-master)
+/CreationDate (D:20220220151940-03'00')
+>>
+endobj
+19 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 20
+0000000000 65535 f 
+0000001926 00000 n 
+0000003220 00000 n 
+0000000009 00000 n 
+0000000118 00000 n 
+0000001983 00000 n 
+0000002073 00000 n 
+0000002168 00000 n 
+0000002266 00000 n 
+0000002368 00000 n 
+0000002456 00000 n 
+0000002550 00000 n 
+0000002647 00000 n 
+0000002748 00000 n 
+0000002841 00000 n 
+0000002933 00000 n 
+0000003027 00000 n 
+0000003125 00000 n 
+0000003456 00000 n 
+0000003547 00000 n 
+trailer
+<<
+/Size 20
+/Root 19 0 R
+/Info 18 0 R
+>>
+startxref
+3651
+%%EOF
